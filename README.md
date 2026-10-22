@@ -5,6 +5,14 @@
 Dành cho Windows 10/11 64-bit. Giải nén toàn bộ rồi mở **Play-EDO.cmd**.
 Không cần cài Python riêng.
 
+**Bản 0.1.4:** cập nhật đủ 100 lá của **Beyond the Brave** theo TCG, bao gồm
+**Hey, Space Trunade!** (tên cũ: Spatial Trunade), tên/nội dung bài và 16 mã bài
+chính thức thay cho mã tạm. Deck cũ được chuyển mã khi mở bằng bản mới.
+Các đợt cập nhật card sẽ theo sản phẩm TCG chính thức; rank OCG vẫn giữ luật riêng.
+
+Nếu đang dùng bản cũ, giải nén bản mới vào thư mục mới và chép deck `.ydk` sang
+`game/deck`. Đăng nhập tài khoản cũ; không cần đăng ký lại, điểm số được giữ nguyên.
+
 ## Vào chơi
 
 1. Mở **Play-EDO.cmd** và chọn **Tạo tài khoản** nếu chơi lần đầu.
