@@ -26,6 +26,11 @@ Dữ liệu bài gồm đủ 100 lá của **Beyond the Brave** theo TCG, bao g�
 chính thức thay cho mã tạm. Deck cũ được chuyển mã khi mở bằng bản mới.
 Các đợt cập nhật card sẽ theo sản phẩm TCG chính thức; rank OCG vẫn giữ luật riêng.
 
+**Bản 0.1.7** sửa 32 lá **Magnificent Monsters** đã phát hành TCG nhưng còn bị
+gắn OCG-only, gồm **Assault Blackwing - Kusanagi the Gathering Storm**. Đã đồng bộ
+máy chủ, biến thể ảnh, tên và nội dung TCG. Đóng game rồi mở lại **Play-EDO.cmd**
+để nhận bản vá; bài chưa phát hành TCG vẫn bị chặn theo luật.
+
 Đăng nhập tài khoản cũ; không cần đăng ký lại, điểm số được giữ nguyên.
 
 ## Vào chơi
