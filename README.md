@@ -1,11 +1,11 @@
 # EDO Ranked — OCG & TCG
 
-**[TẢI BẢN WINDOWS](https://github.com/blablakhonluong/edo-ranked/releases/latest/download/EDO-Ranked-Windows-x64.zip)**
+**[TẢI BẢN WINDOWS](https://github.com/IplayIshare/edo-ranked/releases/latest/download/EDO-Ranked-Windows-x64.zip)**
 
 Dành cho Windows 10/11 64-bit. Giải nén toàn bộ rồi mở **Play-EDO.cmd**.
 Không cần cài Python riêng.
 
-**Đang dùng bản cũ v0.1.1 trở lên?** Tải [gói bật tự động cập nhật](https://github.com/blablakhonluong/edo-ranked/releases/latest/download/EDO-Ranked-Enable-AutoUpdate.zip).
+**Đang dùng bản cũ v0.1.1 trở lên?** Tải [gói bật tự động cập nhật](https://github.com/IplayIshare/edo-ranked/releases/latest/download/EDO-Ranked-Enable-AutoUpdate.zip).
 Đóng game, giải nén 3 file vào thư mục EDO Ranked hiện có (cùng chỗ với
 `Play-EDO.cmd`), đồng ý ghi đè rồi mở **Play-EDO.cmd**. Không cần tải lại cả bộ game.
 
@@ -42,7 +42,7 @@ BO3, Master Rule 5, 8000 LP; rời trận/đang side deck sẽ bị xử thua.
   trong Assets dành cho launcher, không cần tải/giải nén bằng tay.
 - Chưa hỗ trợ tự đặt lại mật khẩu qua email; dùng mật khẩu riêng cho game.
 
-[Các bản tải](https://github.com/blablakhonluong/edo-ranked/releases) · [Nguồn gốc và giấy phép](THIRD_PARTY.md)
+[Các bản tải](https://github.com/IplayIshare/edo-ranked/releases) · [Nguồn gốc và giấy phép](THIRD_PARTY.md)
 
 Kho này chỉ cung cấp bản tải và hướng dẫn dành cho người chơi. Trong mục Assets,
 hãy chọn **EDO-Ranked-Windows-x64.zip**; các gói “Source code” GitHub tự tạo chỉ chứa tài liệu.
