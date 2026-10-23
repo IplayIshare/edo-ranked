@@ -1,9 +1,16 @@
 # EDO Ranked — OCG & TCG
 
+**[Trang chủ & bảng xếp hạng](https://edorank.top)**
+
 **[TẢI BẢN WINDOWS](https://github.com/IplayIshare/edo-ranked/releases/latest/download/EDO-Ranked-Windows-x64.zip)**
 
 Dành cho Windows 10/11 64-bit. Giải nén toàn bộ rồi mở **Play-EDO.cmd**.
 Không cần cài Python riêng.
+
+**Từ bản 0.1.6:** launcher mở màn hình đăng nhập tại **http://edorank.localhost:7926**.
+Đây là cửa sổ trên máy bạn để đăng nhập và vào trận, kết nối đến máy chủ Ranked.
+Mở bằng **Play-EDO.cmd** trước khi truy cập địa chỉ này. Trang **edorank.top** dành
+cho tải game và xem bảng xếp hạng công khai. Không cần sửa DNS hay file hosts.
 
 **Đang dùng bản cũ v0.1.1 trở lên?** Tải [gói bật tự động cập nhật](https://github.com/IplayIshare/edo-ranked/releases/latest/download/EDO-Ranked-Enable-AutoUpdate.zip).
 Đóng game, giải nén 3 file vào thư mục EDO Ranked hiện có (cùng chỗ với
